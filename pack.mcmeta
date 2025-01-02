@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "faz a abobora um capacete e tira overlay",
+    "pack_format": 46,
+    "supported_formats": [ 34 ,42, 46]
+  }
+}
